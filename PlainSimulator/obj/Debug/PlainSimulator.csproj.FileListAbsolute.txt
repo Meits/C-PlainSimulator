@@ -1,0 +1,11 @@
+D:\ps\PlainSimulator\PlainSimulator\PlainSimulator\bin\Debug\PlainSimulator.exe.config
+D:\ps\PlainSimulator\PlainSimulator\PlainSimulator\bin\Debug\PlainSimulator.exe
+D:\ps\PlainSimulator\PlainSimulator\PlainSimulator\bin\Debug\PlainSimulator.pdb
+D:\ps\PlainSimulator\PlainSimulator\PlainSimulator\obj\Debug\PlainSimulator.exe
+D:\ps\PlainSimulator\PlainSimulator\PlainSimulator\obj\Debug\PlainSimulator.pdb
+D:\step\C#\exam\PlainSimulator\PlainSimulator\PlainSimulator\bin\Debug\PlainSimulator.exe.config
+D:\step\C#\exam\PlainSimulator\PlainSimulator\PlainSimulator\obj\Debug\PlainSimulator.exe
+D:\step\C#\exam\PlainSimulator\PlainSimulator\PlainSimulator\obj\Debug\PlainSimulator.pdb
+D:\step\C#\exam\PlainSimulator\PlainSimulator\PlainSimulator\bin\Debug\PlainSimulator.exe
+D:\step\C#\exam\PlainSimulator\PlainSimulator\PlainSimulator\bin\Debug\PlainSimulator.pdb
+D:\step\C#\exam\PlainSimulator\PlainSimulator\PlainSimulator\obj\Debug\PlainSimulator.csprojResolveAssemblyReference.cache
